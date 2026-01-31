@@ -1,0 +1,7 @@
+{
+  "name": "Live Concierge SaaS Engine",
+  "description": "A multi-tenant, lead-qualifying voice and chat concierge engine built for SaaS platforms. Refactored from a single-purpose painting assistant into a generic, configurable core.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
